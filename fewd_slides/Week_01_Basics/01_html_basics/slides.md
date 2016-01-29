@@ -1,3 +1,6 @@
+class: center, middle
+
+
 ![GeneralAssemb.ly](../../img/icons/FEWD_Logo.png)
 
 #FEWD - Day 1!!! 
@@ -75,6 +78,7 @@ The Doctype tells you if the page is HTML5 ready.
 
 ```<!DOCTYPE html>```
 
+---
 
 ##HTML HISTORY
 
@@ -96,7 +100,7 @@ image retrieved from http://www.onbile.com/info/wp-content/uploads/2013/09/Timel
 
 ![HTML Syntax](../../img/unit_1/tags_attributes.png)
 
-----
+---
 
 ##Content Tags
 
