@@ -141,8 +141,9 @@ Unordered list 
 
 Unordered list item 
 
-	`<li>`First item`</li>`
-    `<li>`Next item`</li>`
+`<li>`First item`</li>`
+
+`<li>`Next item`</li>`
 
 
 ---
