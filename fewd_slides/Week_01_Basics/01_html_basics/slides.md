@@ -106,17 +106,17 @@ image retrieved from http://www.onbile.com/info/wp-content/uploads/2013/09/Timel
 
 Heading Elements
 
-```<h1>```Largest Heading```</h1>```
+`<h1>`Largest Heading`</h1>`
 
-```<h2>``` . . . ```</h2>```
+`<h2>` . . . `</h2>`
 
-```<h3>``` . . . ```</h3>```
+`<h3>` . . . `</h3>`
 
-```<h4>``` . . .```</h4>```
+`<h4>` . . .`</h4>`
 
-```<h5>``` . . . ```</h5>```
+`<h5>` . . . `</h5>`
 
-```<h6>```Smallest Heading```</h6>```
+`<h6>`Smallest Heading`</h6>`
 
 ---
 
@@ -124,16 +124,16 @@ Heading Elements
 
 Text Elements
 
-```<p>```This is a paragraph```</p>```
+`<p>`This is a paragraph`</p>`
 
-```<code>```This is some computer code```</code>```
+`<code>`This is some computer code`</code>`
 
 ---
 
 ##Content Tags
 
 Unordered list 
-```<ul>``` ```</ul>```
+`<ul> </ul>`
 
 ---
 
@@ -141,8 +141,8 @@ Unordered list 
 
 Unordered list item 
 
-	```<li>```First item```</li>```
-    ```<li>```Next item```</li>```
+	`<li>`First item`</li>`
+    `<li>`Next item`</li>`
 
 
 ---
@@ -151,7 +151,7 @@ Unordered list item 
 ##Content Tags
 
 links 
- ```<a href="Link">```First item```</a>```
+ `<a href="Link">`First item`</a>`
 
 
 ---
