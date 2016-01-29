@@ -108,6 +108,15 @@ Heading Elements
 
 `<h1>`Largest Heading`</h1>`
 
+`<h2>` . . . `</h2>`
+
+`<h3>` . . . `</h3>`
+
+`<h4>` . . .`</h4>`
+
+`<h5>` . . . `</h5>`
+
+`<h6>`Smallest Heading`</h6>`
 
 
 ---
@@ -192,4 +201,4 @@ links 
 
 ###Please fill out the <a href="https://docs.google.com/forms/d/1Iw2zghHfGgeM1p1G16F6kLi7KViv28tG3HVNnoM3PAc/viewform">exit ticket</a> before you leave
 
----
+
