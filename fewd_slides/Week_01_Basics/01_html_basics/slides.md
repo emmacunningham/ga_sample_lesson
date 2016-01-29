@@ -76,7 +76,6 @@ HTML5 is HTML with a few additions
 The Doctype tells you if the page is HTML5 ready.
 
 
-```<!DOCTYPE html>```
 
 ---
 
