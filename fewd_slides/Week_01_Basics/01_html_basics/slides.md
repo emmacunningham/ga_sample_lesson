@@ -209,16 +209,17 @@ Links
 ---
 ## Review 
 
-*	What are the main elements that every page must have to be rendered as valid HTML?
+*	What are the main elements that every document must have to be rendered as valid HTML?
 *	What are 2 ways to add style to an HTML document?  Which one do you think is better and why?
 
 ---
 
 ## Homework
 
-*	Finish Cookie recipe lab
+*	Finish Cookie recipe lab + submit a link to your work on GitHub to receive feedback
 *	Watch a <a href="https://www.youtube.com/watch?v=7_LPdttKXPc">video</a> on the Internet about the Internet
 *	Read about <a href="http://www.w3schools.com/cssref/css_colors.asp">CSS Colors</a>
+*	**BONUS**: If you have extra time before next class and want to keep practicing, create a resume page for yourself, separating the different sections of content with the appropriate HTML tags.
 
 ---
 
