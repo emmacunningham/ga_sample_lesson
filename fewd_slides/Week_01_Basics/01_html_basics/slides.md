@@ -69,20 +69,21 @@ GitHub's collaborative process can work many different ways, but this is the mos
 * **commit** - save a version of your project to git 
 
 ---
+##WE DO:
+
+1. 	First we will all **clone** the <a href="https://github.com/ga-students/FEWD_DTLA_7">FEWD_DTLA_7</a> **repository** - this is where our lesson resources will be updated.
+2. 	Next, let's all create a new **repository**, add a file, **commit** the change, and sync with our remote master branch.
+
+---
 
 ##Submitting Assignments
 
-To submit your assignment via GitHub:
-
-1. 	Create a new project via the GitHub client.
-2. 	Navigate to your project on your computer.  Add/edit your project files in the project folder.
-3. 	In your GitHub client, review the updated project (you should see your added files and a changelog for each file).
-4. 	Add a description of the changes under "Description".
-5. 	Click "Commit to master".
-6.	Click "Sync" in the upper right hand corner to push to your GitHub account.
-7. 	If this is the first time you're committing to this repository, it may take up to half an hour for it to appear on your GitHub account.  Once it is visible, grab the link to the project on GitHub and send the link to **BOTH** Emma and Sam.
+1.	Upload your project to GitHub (following the steps to create a new repository, add project files, and sync/publish to GitHub).
+2.	Get the link for your project and Slack it to Emma and Sam.
+3.	You will receive <a href="https://www.youtube.com/watch?v=gQzWFRKZUSA&feature=youtu.be&hd=1">feedback</a> via in-line comments within your latest commit on GitHub on your project's repository.  Assessment rubrics for larger projects will be provided in GitHub issues.
 
 ---
+
 #HTML Basics
 
 ---
@@ -122,6 +123,8 @@ image retrieved from http://www.onbile.com/info/wp-content/uploads/2013/09/Timel
 ##HTML Syntax
 
 ![HTML Syntax](../../img/unit_1/tags.png)
+
+**Note:** While many, if not most, HTML elements follow this convention, not all do.  We will discuss exceptions to this rule in our next class, but if you find yourself thinking "hey, we had to work with a tag in our pre-work that doesn't have a closing tag!", give yourself a pat on the back for being exceptionally observant :)
 
 ---
 
