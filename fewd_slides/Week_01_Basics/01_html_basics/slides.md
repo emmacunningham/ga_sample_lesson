@@ -195,7 +195,7 @@ Links
 ##General Assembly Press Release
 
 ---
-
+![GeneralAssemb.ly](../../img/icons/code_along.png)
 
 ##External Style Sheets 
 
