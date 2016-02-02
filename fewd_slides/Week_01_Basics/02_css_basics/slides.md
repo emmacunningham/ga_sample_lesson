@@ -57,7 +57,6 @@ Answer: Practice!  Tag names and selectors will come you more quickly over time.
 
 
 ##HTML Basics Review
-![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
 
 ---
 
