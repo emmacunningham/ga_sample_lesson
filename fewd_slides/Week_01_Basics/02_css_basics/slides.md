@@ -57,10 +57,10 @@ Answer: Practice!  Tag names and selectors will come you more quickly over time.
 
 
 ##HTML Basics Review
+![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
 
 ---
 
-![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
 ##What Tag Is It?
 
 1.	Sync your local FEWD_DTLA_7 repository with the remote one on GitHub 
