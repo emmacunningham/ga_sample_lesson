@@ -2,15 +2,16 @@
 
 #FEWD - CSS Basics
 
-###Instructor Name
+###Lesson #2 - Feb 3, 2016
 
-Instructors current role.
+"Every step is moving me up." - Arthur Russell
 
 ---
 
 
 ##Agenda
 
+*	Exit Ticket review
 *	HTML & External Style Sheet Review
 *	Building A Simple Web Page
 	*	Images
@@ -20,7 +21,40 @@ Instructors current role.
 	*	Linking To Other Pages
 *	Lab Time
 
+
 ---
+
+##Exit Ticket Review
+
+* How to code in other languages
+
+Answer: Specify in your `<head>` with a `<meta>` tag that your page will use `UTF-8` character encoding and you should be able to just enter the characters themselves in your code.  Read more <a href="http://stackoverflow.com/a/12649631">here</a>.
+
+
+* What is the best way to memorize essential HTML tags and selectors?
+
+Answer: Practice!  Tag names and selectors will come you more quickly over time.  Remember, this is kind of like learning a new language.  Practice makes perfect (and in the meanwhile, get great at Googling).
+
+* Concerns about pacing of the class
+
+
+
+* Accessing assignment files
+* Difficulties with GitHub
+
+
+---
+
+##Exit Ticket Review
+
+* Elaborate more on indentation
+* Resources for further learning after the course
+* Is the space after color in color: green important? Are browsers picky? 
+* How many external stylesheets should you have? When do you start having more than one?
+* Best practices for keeping code clean
+
+---
+
 
 ##HTML Basics Review
 
@@ -29,17 +63,27 @@ Instructors current role.
 ![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
 ##What Tag Is It?
 
+1.	Sync your local FEWD_DTLA_7 repository with the remote one on GitHub 
+
+<img src="gh-sync.png" />
+
+
+2.	Look at the two images within the directory: `FEWD_DTLA_7/02_css_basics/what_tag_is_it`
+3.	Start with the `about_me_deliverable`: Convert this markup into HTML tags to represent the structure outlined on the page.
+
+**NOTE**: you'll notice that there are some tags that we haven't explicitly discussed yet in class.  This is by design!  Part of your task is to figure out how to hunt down information that you don't yet know.
+
 ---
 
-##Building Websites`
+##Building Websites
 
 ---
 
 ##Images
 
-*	Images are placed using the ```<img>``` tag.
+*	Images are placed using the `<img>` tag.
 
-```<img src="img/imageName.jpg" alt="alternative text">```
+`<img src="img/imageName.jpg" alt="alternative text">`
 
 ---
 
