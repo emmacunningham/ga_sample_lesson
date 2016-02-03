@@ -4,7 +4,7 @@
 
 ###Lesson #2 - Feb 3, 2016
 
-"Every step is moving me up." - Arthur Russell, <a href="https://www.youtube.com/watch?v=eq5gjfN5lns">This is How We Walk on the Moon</a>
+"Every step is moving me up." - <a href="https://www.youtube.com/watch?v=eq5gjfN5lns">This is Arthur Russell</a>
 
 ---
 
