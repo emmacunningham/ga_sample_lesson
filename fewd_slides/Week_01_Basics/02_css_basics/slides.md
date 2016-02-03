@@ -38,6 +38,10 @@ Answer: Practice!  Tag names and selectors will come you more quickly over time.
 
 Answer: Ask questions often and practice!
 
+---
+
+##Exit Ticket Review
+
 * Accessing assignment files
 
 Answer: We will end every class by pointing out where the files are located.  If you still have confusion about where to look, reach out to Emma or Sam.
@@ -46,13 +50,14 @@ Answer: We will end every class by pointing out where the files are located.  If
 
 Answer: Ask questions often and practice!
 
----
-
-##Exit Ticket Review
 
 * Elaborate more on indentation
 
 Answer: For HTML + CSS, browsers do not recognize or care about indentation (this is not true of all programming languages).  *However*, our human eyes are able to use spacing to better organize information.
+
+---
+
+##Exit Ticket Review
 
 * Resources for further learning after the course
 
