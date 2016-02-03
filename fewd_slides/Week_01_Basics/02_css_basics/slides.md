@@ -163,8 +163,6 @@ alt attribute
 
 `<img src="puppy.jpg" alt="My cute puppy">`
 
-Note:
-
 A piece of text to be used in lieu of the image when the image is unavailable
 
 Using `alt` attributes has the added benefit of giving search engines more linguistic context about the image as it is used on your page.  Read more about <a href="http://seoexplainedsimply.co.nz/">Search Engine Optimization</a>.
@@ -172,8 +170,6 @@ Using `alt` attributes has the added benefit of giving search engines more lingu
 Reasons an image may not load: 
 
 *	There was a connection error, the browser didn't download the image.
-
-*	The file was not found, perhaps because the image got moved elsewhere and the page wasn't updated yet to reflect the change.
 
 *	The user is running a text-based browser such as an older phone with a WAP-style browser, or a non-graphical browser like lynx.
 
