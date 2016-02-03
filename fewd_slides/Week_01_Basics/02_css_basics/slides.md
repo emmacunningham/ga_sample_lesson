@@ -264,9 +264,7 @@ Where can CSS go?
 * In a separate file
 
 
-Note:
-
-CSS should go in a separate file. We'll show inline styles at the end, just to demonstrate.
+Best practice: CSS should go in a separate file.
 
 
 ---
