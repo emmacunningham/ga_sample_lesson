@@ -30,28 +30,46 @@
 
 Answer: Specify in your `<head>` with a `<meta>` tag that your page will use `UTF-8` character encoding and you should be able to just enter the characters themselves in your code.  Read more <a href="http://stackoverflow.com/a/12649631">here</a>.
 
-
 * What is the best way to memorize essential HTML tags and selectors?
 
 Answer: Practice!  Tag names and selectors will come you more quickly over time.  Remember, this is kind of like learning a new language.  Practice makes perfect (and in the meanwhile, get great at Googling).
 
 * Concerns about pacing of the class
 
-
+Answer: Ask questions often and practice!
 
 * Accessing assignment files
+
+Answer: We will end every class by pointing out where the files are located.  If you still have confusion about where to look, reach out to Emma or Sam.
+
 * Difficulties with GitHub
 
+Answer: Ask questions often and practice!
 
 ---
 
 ##Exit Ticket Review
 
 * Elaborate more on indentation
+
+Answer: For HTML + CSS, browsers do not recognize or care about indentation (this is not true of all programming languages).  *However*, our human eyes are able to use spacing to better organize information.
+
 * Resources for further learning after the course
+
+Answer: We will be talking about this through the course!
+
 * Is the space after color in color: green important? Are browsers picky? 
+
+Answer: See the above answer on indentation -- browsers won't care about this, but our human eyes do!
+
 * How many external stylesheets should you have? When do you start having more than one?
+
+Answer: Will discuss today during class!
+
 * Best practices for keeping code clean
+
+Answer: This will be an on-going discussion throughout the course!
+
 
 ---
 
@@ -68,7 +86,7 @@ Answer: Practice!  Tag names and selectors will come you more quickly over time.
 
 ---
 
-##What Tag Is It?
+##What Tag Is It? (20 min)
 
 *	Look within the directory: `FEWD_DTLA_7/02_css_basics/what_tag_is_it`
 *	Start with the `about_me_deliverable`: Convert this design comp into HTML tags to represent the structure outlined on the page.
@@ -437,6 +455,13 @@ Note that changing the opacity allows whatever colors are "behind" an element to
 
 
 ---
+## The web is your friend
+
+Your will often find that you can't recall the right CSS property to style something to your liking.  **This is completely normal**!  Use the web as a resource to hunt down the information you need.
+
+###<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">Mozilla CSS Reference</a>
+
+---
 
 
 ![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
@@ -459,6 +484,8 @@ Note that changing the opacity allows whatever colors are "behind" an element to
 *	<a href="http://www.w3schools.com/css/css_howto.asp">Incorporating CSS into HTML</a>
 *	<a href="http://www.w3schools.com/cssref/">CSS Reference</a>
 *	<a href="http://www.colorpicker.com/">Hex Color Picker</a>
+*	<a href="http://stackoverflow.com/">Stack Overflow</a>
+*	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">Mozilla CSS Reference</a>
 
 
 ---
