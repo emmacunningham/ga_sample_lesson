@@ -4,7 +4,7 @@
 
 ###Lesson #2 - Feb 3, 2016
 
-"Every step is moving me up." - Arthur Russell
+"Every step is moving me up." - Arthur Russell, <a href="https://www.youtube.com/watch?v=eq5gjfN5lns">This is How We Walk on the Moon</a>
 
 ---
 
@@ -339,8 +339,6 @@ Colors can be specified in CSS in a variety of ways:
 
 ![](../../img/unit_1/color.png)
 
-Note:
-
 * 	keyword
 * 	hex codes
 * 	rgb
@@ -354,7 +352,7 @@ Note:
 ##Color
 ###Color Keywords
 
-These are used less frequently, but are handy for basic colors like `black` and `white`. There are several
+These are used less frequently, but are handy for basic colors like `black` and `white`. 
 
 See [here](http://msdn.microsoft.com/en-us/library/ie/aa358802.aspx) for more
 
@@ -421,7 +419,12 @@ The alpha value can be in decimal form but cannot use a percentage. When a decim
 ####HSLa
 *	As with RGBa, HSLa is exactly like HSL for the first 3 values, but takes a 4th alpha-channel value.
 
-Note:
+
+---
+
+##Color
+###HSL Colors
+
 **Hue** is expressed as a degree angle measure, with red being at 0, green at 120, and blue at 240. Note that the degree unit is implied, and that the angle wraps around, so 360 also refers to red, and -120 is the same as 240 (blue).
 
 **Saturation** is expressed as a percentage, with 100% being a fully saturated color, and 0% being a shade of gray (no hue).
@@ -455,6 +458,7 @@ Note that changing the opacity allows whatever colors are "behind" an element to
 *	<a href="complete-css-selector-basics-lesson.md">CSS Selectors and basic styling markdown</a>
 *	<a href="http://www.w3schools.com/css/css_howto.asp">Incorporating CSS into HTML</a>
 *	<a href="http://www.w3schools.com/cssref/">CSS Reference</a>
+*	<a href="http://www.colorpicker.com/">Hex Color Picker</a>
 
 
 ---
