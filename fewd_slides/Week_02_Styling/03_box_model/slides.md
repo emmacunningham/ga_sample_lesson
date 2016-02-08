@@ -43,6 +43,30 @@ Answer: GREAT question!  We'll be talking about spacing, etc. further this week,
 
 Answer: this will take time + practice.  One thing to note, absolute path values will be hard to preview in local development, so I would recommend using **relative** paths for the time being.
 
+
+---
+
+##Tip: Commenting
+
+###As you work through some of the exercises & assignments, it may be useful for you to leave notes to yourself in your code
+
+###Commenting in HTML
+
+Use `<!--` to start commenting and `-->` to close your comments.
+
+Ex:
+
+`<!-- This is a comment in HTML -->`
+
+
+###Commenting in CSS
+
+Use `/*` to start commenting and `*/` to close your comments.
+
+Ex:
+
+`/* This is a comment in CSS */`
+
 ---
 
 ##Box Model
