@@ -64,7 +64,7 @@ Every element in web design is a box.
 
 ###Height = height + padding-top + padding-bottom + border-top + border-bottom
 
-### *margin properties add additional space OUTSIDE of the box in question
+### *margin properties add additional space OUTSIDE of the box in question (and also contribute to the overal width & height of your element)
 
 ---
 
@@ -98,6 +98,12 @@ Every element in web design is a box.
 
 ![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
 ##Relaxr Landing Page
+
+Begin working on the Assignment for this week, building the Relaxr Landing Page from the <a href="https://github.com/generalassembly-studio/FEWD_Curriculum/blob/master/Week_02_Styling/Assignment/starter_code/images/relaxr_landing.jpg">design file</a>.
+
+For today, focus on building out the HTML structure and applying the styles that we've learned so far.  On Wednesday, we will talk more specifically about how to visually organize information.
+
+You will have more time to work on this before submitting it as the Assignment for this week, so don't feel rushed!
 
 ---
 
