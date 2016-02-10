@@ -91,6 +91,11 @@ With classes and ids we can target specific elements on a page, so we can manipu
 ###Never use spaces or capitalization in either a class or id value.
 ###Class and id attribute values should always be completely lowercased and "dash-delimited" (that means word breaks are denoted using a dash).
 
+
+---
+
+##class & id
+
 **DO**:
 
 *	`<h1 class="title">`
@@ -102,7 +107,6 @@ With classes and ids we can target specific elements on a page, so we can manipu
 *	`<h1 class="Title">`
 *	`<h1 class="mainTitle">` [This is called *camel-casing* and is used as formatting in other languages.]
 *	`<h1 class="main header title">` [This applies **three** classes to the h1.]
-
 
 ---
 
