@@ -188,6 +188,7 @@ Image from Chris Coyier's CSS-Tricks
 ##Homework
 
 *	Assignment #2 - Relaxr Landing page
+*	<a href="http://css.maxdesign.com.au/floatutorial/">Floats tutorial</a> (not graded but good practice!)
 
 ---
 ## Exit Ticket - Lesson #4, Topic: Layout
