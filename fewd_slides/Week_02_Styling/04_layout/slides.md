@@ -75,7 +75,7 @@ Most commonly, you will use `div`s to separate content structurally that needs t
 With classes and ids we can target specific elements on a page, so we can manipulate them uniquely.
 
 
-<img src="img/div-class-id.png" />
+<img src="img/div-class-id.png" style="width: 600px;" />
 
 ---
 
