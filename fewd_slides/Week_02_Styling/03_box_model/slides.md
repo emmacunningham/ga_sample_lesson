@@ -123,7 +123,7 @@ Every element in web design is a box.
 ![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
 ##Relaxr Landing Page
 
-Begin working on the Assignment for this week, building the Relaxr Landing Page from the <a href="https://github.com/generalassembly-studio/FEWD_Curriculum/blob/master/Week_02_Styling/Assignment/starter_code/images/relaxr_landing.jpg">design file</a>.
+Begin working on the Assignment for this week, building the Relaxr Landing Page from the <a href="https://github.com/ga-students/FEWD_DTLA_7/blob/master/Week_02_Styling/03_box_model/images/relaxr_landing.jpg">design file</a>.
 
 For today, focus on building out the HTML structure and applying the styles that we've learned so far.  On Wednesday, we will talk more specifically about how to visually organize information.
 
