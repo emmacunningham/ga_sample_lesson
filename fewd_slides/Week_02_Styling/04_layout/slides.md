@@ -174,7 +174,9 @@ Image from Chris Coyier's CSS-Tricks
 
 
 ![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
-##Layout Challenge
+##Getting started with Relaxr
+
+
 
 ---
 
