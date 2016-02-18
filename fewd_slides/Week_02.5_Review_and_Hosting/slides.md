@@ -1,6 +1,6 @@
 ![GeneralAssemb.ly](../img/icons/FEWD_Logo.png)
 
-#FEWD - Review
+#FEWD - Layout Review + Hosting
 
 ###Lesson #4.5 - Feb 17, 2016
 
@@ -63,7 +63,7 @@ Answer: Sit tight :)
 
 ##Resources 
 
-
+*	Floats gettin' you down?  Try <a href="http://www.flexboxpatterns.com/home">Flexbox</a>
 
 ---
 ##Homework
@@ -72,7 +72,7 @@ Answer: Sit tight :)
 *	Keep practicing with floats using the Layouts Challange doc.
 
 ---
-## Exit Ticket - Lesson #3, Topic: Box model
+## Exit Ticket - Lesson #4.5, Topic: Layout Review + Hosting
 
 ###Please fill out the <a href="https://docs.google.com/forms/d/1Iw2zghHfGgeM1p1G16F6kLi7KViv28tG3HVNnoM3PAc/viewform">exit ticket</a> before you leave
 
