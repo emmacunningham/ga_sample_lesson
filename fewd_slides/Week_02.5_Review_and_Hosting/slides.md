@@ -17,7 +17,7 @@
 *	Relaxr Solution
 *	Hosting
 *	More on floats + box model
-	*	Floats Lab
+	*	Layout Lab
 
 ---
 
