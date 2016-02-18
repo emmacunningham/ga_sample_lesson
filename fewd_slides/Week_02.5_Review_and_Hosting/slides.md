@@ -63,13 +63,16 @@ Answer: Sit tight :)
 
 ##Resources 
 
-*	Floats gettin' you down?  Try <a href="http://www.flexboxpatterns.com/home">Flexbox</a>
+*	Floats gettin' you down?
+	*	Try <a href="http://learnlayout.com/inline-block.html">display: inline-block</a>
+	*	Or, even newer, try <a href="http://www.flexboxpatterns.com/home">Flexbox</a>
+
 
 ---
 ##Homework
 
 *	Push up your Relaxr page to GH Pages
-*	Keep practicing with floats using the Layouts Challange doc.
+*	Keep practicing using the Layouts Challange doc.
 
 ---
 ## Exit Ticket - Lesson #4.5, Topic: Layout Review + Hosting
