@@ -1,0 +1,22 @@
+#container-1 {
+	background-color: red;
+	width: 25%;
+	height: 200px;
+
+}
+
+#container-2 {
+	background-color: blue;
+	width: 50%;
+	height: 200px;	
+
+}
+
+.nav-link {
+	background: #C390D4;
+	margin: 20px;
+}
+
+.nav-link:hover {
+	background: #A1D490;
+}
