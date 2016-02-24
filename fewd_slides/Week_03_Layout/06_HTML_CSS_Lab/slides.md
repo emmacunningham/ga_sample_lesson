@@ -2,7 +2,7 @@
 
 #FEWD - Startup Matchmaker Layout Lab
 
-###Lesson #6 - Feb 22, 2016
+###Lesson #6 - Feb 24, 2016
 
 
 "What we find is that if you have a goal that is very, very far out, and you approach it in little steps, you start to get there faster. Your mind opens up to the possibilities."
