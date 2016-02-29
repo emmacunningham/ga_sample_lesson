@@ -142,11 +142,18 @@ Pseudocode is useful because it can help you organize the steps of your program,
 
 ###Web development is kind of like building a house
 
-<img src="webdev-house.png" />
+<img src="webdev-house.png" width="100%"/>
 
 
 ---
 ##What can JavaScript do?
+
+Review the interactive functionality on the following sites:
+
+*	<a href="https://www.google.com/chrome/">Chrome.com""</a>
+*	<a href="https://www.google.com/zeitgeist/2012/resolutions/">Google Zeitgeist Resolutions</a>
+*	<a href="http://www.google.com/landing/now/">Google Now</a>
+*	<a href="https://www.google.com/work/solutions.html">Google for Work - Solutions</a>
 
 ---
 
@@ -169,4 +176,6 @@ Pseudocode is useful because it can help you organize the steps of your program,
 
 ---
 
-##Exit Tickets
+##Exit Tickets - Lesson #7, Topic: Intro Programming
+
+###Please fill out the <a href="https://docs.google.com/forms/d/1Iw2zghHfGgeM1p1G16F6kLi7KViv28tG3HVNnoM3PAc/viewform">exit ticket</a> before you leave
