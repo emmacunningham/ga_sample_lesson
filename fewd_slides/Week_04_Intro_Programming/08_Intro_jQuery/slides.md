@@ -58,11 +58,11 @@ Answer: Similar to CSS, you can add JavaScript straight into your HTML file (wit
 
 Answer: Too many to list exhaustively here, but here are a few of my favorites:
 
-	*	AngularJs / React JS / Ember / Backbone - these are all for being able to seamlessly integrate large data streams with your HTML
-	*	d3 - for data visualization and animations 
-	*	lodash - used for manipulating large data streams 
-	*	ThreeJS - creates immersive 3-dimensional displays that can be animated
-	*	Greensock Animation Platform - creates (primarily 2d) animations within the browser
+*	AngularJs / React JS / Ember / Backbone - these are all for being able to seamlessly integrate large data streams with your HTML
+*	d3 - for data visualization and animations 
+*	lodash - used for manipulating large data streams 
+*	ThreeJS - creates immersive 3-dimensional displays that can be animated
+*	Greensock Animation Platform - creates (primarily 2d) animations within the browser
 ---
 
 ##Exit tickets
@@ -151,9 +151,15 @@ In a programming language, similar to a natural language (languages that humans 
 
 Selectors are just like CSS
 
-	$(".class").click();
+	$(".test-class") // Selects ALL items with class "test-class"
+	$("#test-id") // Selects SINGLE item with id "test-id"
 
-Note: document.getElementById("foo").onclick = doSomething;
+
+---
+
+##jQuery Syntax - Selectors
+
+Vanilla JS: document.getElementById("foo").onclick = doSomething;
 
 	function doSomething() {
     	// make something happen here
@@ -166,9 +172,6 @@ In jQuery, this might look more like:
 	function doSomething() {
 		// make something happen here
    	}
-
-
-Note: We will certainly be discussing this in more detail, but in general jQuery let’s us grab some element from the page (`$('#foo')`), and do something with it (`$('#foo').click(doSomething);`). In this case, we grabbed an element with the id `foo` and used `.click()` to make a function run when the user clicks on `#foo`.
 
 ---
 
