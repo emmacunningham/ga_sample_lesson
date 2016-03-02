@@ -172,6 +172,10 @@ Review the interactive functionality on the following sites:
 *	"Slow" button turns the light to purple, not yellow
 *	"Go" button doesn't turn on at all!
 
+---
+##Homework
+
+*	Practice writing JavaScript via <a href="http://javascript-roadtrip.codeschool.com/">JavaScript Roadtrip</a> (approx 2 hours total - do as much as you can, but don't feel rushed to finish! we will cover all of this in class)
 
 
 ---
