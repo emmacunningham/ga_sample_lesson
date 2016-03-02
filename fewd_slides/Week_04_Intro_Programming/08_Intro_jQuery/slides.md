@@ -159,7 +159,9 @@ Selectors are just like CSS
 
 ##jQuery Syntax - Selectors
 
-Vanilla JS: document.getElementById("foo").onclick = doSomething;
+Vanilla JS: 
+
+	document.getElementById("foo").onclick = doSomething;
 
 	function doSomething() {
     	// make something happen here
