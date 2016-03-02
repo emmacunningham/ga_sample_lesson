@@ -242,6 +242,7 @@ Let's build an interactive Frequently Asked Questions page!
 
 *	<a href="../Assignment">Assignment #4</a>
 *	Wireframe + Proposal for your <a href="../../Final_Project">final project</a>
+*	**OPTIONAL**: Additional DOM manipulation exercise in Assignment folder
 
 ---
 
