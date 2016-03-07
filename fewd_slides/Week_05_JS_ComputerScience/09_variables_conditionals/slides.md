@@ -11,7 +11,7 @@
 
 ##Agenda
 
-*	Reivew
+*	Review
 *	Debugging with console
 *	Variables
 *	Conditionals
@@ -103,7 +103,7 @@ What are variables?
 
 Declaration: `var age;`
 
-Assignment: `age = 21;`  (**NOTE**: you should not do this unless you have already declared the variable)
+Assignment: `age = 21;`
 
 Both at the same time: `var age = 21;`
 
@@ -169,9 +169,9 @@ The types of different values we support *include* (but are not limited to):
 
 Double vs single quoted strings:
 
-'They "purchased" it'
+`'They "purchased" it'`
 
-"It's a beautiful day"
+`"It's a beautiful day"`
 
 ---
 
@@ -286,7 +286,7 @@ Are two things equal?
 
 ##Logical Operators
 
-![](../../img/unit_1/logical_operators.png)
+<img src="../../img/unit_1/logical_operators.png" style="height: 80%" />
 
 ---
 
