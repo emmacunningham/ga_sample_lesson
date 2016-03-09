@@ -94,7 +94,7 @@ Are two things equal?
 
 ##Logical Operators
 
-<img src="../../img/unit_1/logical_operators.png" style="width: 80%" />
+<img src="../../img/unit_1/logical_operators.png" style="height: 80%" />
 
 ---
 
@@ -207,7 +207,7 @@ We have been using them already, but tonight we formalize our understanding and 
 
 ##Return Functions
 
-<img src="../../img/unit_2/function_return.png" style="width: 80%" />
+<img src="../../img/unit_2/function_return.png" style="width: 60%" />
 
 ##Within any function, JavaScript will stop executing as soon as it gets to a return statement; for this reason, you should only use return at the end of a function.
 
