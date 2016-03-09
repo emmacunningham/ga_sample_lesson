@@ -50,6 +50,10 @@ Answer: I'm not aware of such a resource and have spent the past two days trying
 
 Answer: Let's revisit the `score_keeper` code from last week.
 
+---
+
+##Exit Tickets
+
 *	What are some common examples of using variables and conditionals? 
 
 Answer: We will be reviewing these things tonight!  Use a variable whenever you need your program to "remember" a value.  Use conditionals whenever you need your program to "make decisions" based on other values within your program.
