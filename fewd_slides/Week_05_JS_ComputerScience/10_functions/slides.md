@@ -94,7 +94,7 @@ Are two things equal?
 
 ##Logical Operators
 
-<img src="../../img/unit_1/logical_operators.png" style="height: 80%" />
+<img src="../../img/unit_1/logical_operators.png" style="width: 80%" />
 
 ---
 
