@@ -26,6 +26,10 @@
 
 Answer: When possibly, make your code *modular* by creating functions that handle specific tasks.  We will talk tonight about how this relates to **refactoring** your code.  [But in practice, these two things do exactly the same thing.]
 
+---
+
+##Exit Tickets
+
 *	How often do you write codes with variables? Is it an industry standard and are there any other options for comparisons?
 
 Answer: This also makes your code more *modular* and therefore more maintable in the long term.  The industry standard is to make things as modular as possible whenever you can; you can never overdo it with variables!
@@ -104,6 +108,25 @@ jQuery: “this” refers to the selected object
 
 
 Rule of thumb (ROT): If I don’t know what thing will be acted on, then I should consider using `this`
+
+
+--- 
+
+##DOM Traversal
+
+Sometimes, we will want to affect not just the thing that we clicked on, but an element related to what we just clicked on.
+
+For example, we may want to click on an element and expand open the DOM element immediately following the element that was clicked on.
+
+Great news, jQuery gives us tools for that!
+
+--- 
+
+##DOM Traversal
+
+*	<a href="https://api.jquery.com/prev/">`$.prev()`</a> - grabs the element immediately preceding
+*	<a href="https://api.jquery.com/next/">`$.next()`</a> - grabs the element immediately preceding
+*	<a href="https://api.jquery.com/siblings/">`$.siblings()`</a> - grabs any sibling elements (can be used with a selector argument; `$.siblings(".foo")` will grab all sibling elements with class "foo")
 
 
 ---
