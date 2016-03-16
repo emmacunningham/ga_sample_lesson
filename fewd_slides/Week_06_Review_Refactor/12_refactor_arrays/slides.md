@@ -107,7 +107,7 @@ jQuery: “this” refers to the selected object
 	}
 
 
-Rule of thumb (ROT): If I don’t know what thing will be acted on, then I should consider using `this`
+Rule of thumb: If I don’t know what thing will be acted on (by name), then I should consider using `this`.
 
 
 --- 
