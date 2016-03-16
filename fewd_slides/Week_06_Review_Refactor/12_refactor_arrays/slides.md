@@ -99,9 +99,11 @@ jQuery: `this` refers to the selected object
 ##This
 
 `this` is great for when you want to assign an event handler for many different elements, but want them all to be handled the same way
-
 	
-
+	$("p").click(clickHandler);
+	function clickHandler() {
+	    $(this).fadeOut(500);
+	}
 
 --- 
 
