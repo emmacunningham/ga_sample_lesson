@@ -7,23 +7,23 @@ function pageReady() {
 
 	function readMore() {
 		event.preventDefault();  
-		$("#show-this-on-click").slideDown();
+		$("#show-this-on-click1").slideDown();
 		$(".readmore").hide();
 		$(".readless").show();
 	}
 
 	function readLess() {
 		event.preventDefault();  
-		$("#show-this-on-click").slideUp();
+		$("#show-this-on-click1").slideUp();
 		$(".readmore").show();
 		$(".readless").hide();
 	}
 
 	function learnMore() {
 		event.preventDefault();  
-		$("#learnmoretext").slideDown();
+		$("#show-this-on-click3").slideDown();
 		$(".learnmore").hide();
-		$(".readless").show;
+		$(".readless").show();
 	}
 
 }
