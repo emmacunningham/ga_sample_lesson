@@ -5,6 +5,11 @@
 $(document).ready(pageReady);
 
 function pageReady() {
+	var names = ["Nisa", "Khoi", "Sam", "Paul", "Naomi", "Kristina"];
+
+	names.forEach(function (element, index) {
+		$(".class-list").append("<li>" + element + "</li>");
+	});
 
 
 }

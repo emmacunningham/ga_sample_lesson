@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box; 
+}
+
+body {
+  width: 600px;
+	margin: 0 auto;
+	font-size: 1em;
+}
+
+.container {
+  border: 2px solid red;
+  margin: 0 auto;
+}
+
+.col {
+  padding: 5%;
+  width: 33%;
+  margin-left: -4.5px;
+  display: inline-block;
+}
+

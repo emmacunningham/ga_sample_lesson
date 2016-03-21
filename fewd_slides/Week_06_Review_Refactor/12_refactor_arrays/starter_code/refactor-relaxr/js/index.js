@@ -3,27 +3,21 @@ function pageReady() {
 
 	$(".readmore").click(readMore);
 	$(".readless").click(readLess);
-	$(".learnmore").click(learnMore);
 
 	function readMore() {
 		event.preventDefault();  
-		$("#show-this-on-click1").slideDown();
-		$(".readmore").hide();
-		$(".readless").show();
+		$(this).hide();
+		$(this).siblings(".hide").slideDown();
 	}
 
 	function readLess() {
 		event.preventDefault();  
-		$("#show-this-on-click1").slideUp();
-		$(".readmore").show();
-		$(".readless").hide();
+		$(this).hide();
+		$(this).prev().slideUp(1000, showReadMore);
 	}
 
-	function learnMore() {
-		event.preventDefault();  
-		$("#show-this-on-click3").slideDown();
-		$(".learnmore").hide();
-		$(".readless").show();
+	function showReadMore() {
+		$(this).siblings(".readmore").show();
 	}
 
 }
