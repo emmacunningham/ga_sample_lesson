@@ -45,7 +45,7 @@ Let's bring HTML/CSS back into the equation.
 ---
 
 
-![GeneralAssemb.ly](../../img/icons/Exercise_icon_md.png)
+![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
 ##Boxes
 
 You have 20 minutes to recreate this layout:
