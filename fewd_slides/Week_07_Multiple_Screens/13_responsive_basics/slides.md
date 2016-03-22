@@ -20,6 +20,12 @@
 
 ---
 
+##Annoucement
+
+###Emma won't be holding office hours next week 3/29 or the following week 4/5.  Please Slack or email me to set up a time to meet. 
+
+---
+
 ##Exit tickets
 
 *	For something with a super large list of items , like a word list,  do we need to move on to something more accommodating than arrays? 
