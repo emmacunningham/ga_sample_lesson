@@ -1,0 +1,134 @@
+*{
+	width:100%;
+	border:1px solid black;
+	-moz-box-sizing: border-box; 
+     -webkit-box-sizing: border-box; 
+     box-sizing: border-box; 
+}
+
+#container,ul,nav,body,html{
+	border:none;
+}
+
+ul{
+	padding:0;
+	margin:0;
+}
+
+#container{
+	width:90%;
+	margin:0 auto;
+}
+/*Navigation*/
+.desktop-nav {
+	height:60px;
+	display: inline-block;
+    width: 80%;	
+}
+.desktop-nav li{
+	width:15%;
+	height:40px;
+	margin:10px;
+	display: inline-block;
+}
+
+/* Mobile nav button container */
+.mobile-nav-button {
+    width: 60px;
+    margin-top: 10px;
+    margin-right: 10px;
+    float: right;	
+    background: #000;
+    cursor: pointer; /* This forces the mouse to render as a pointer (hand) when hovering over the element */
+    display: none;
+}
+
+/* creates a line for the hamburger nav */
+.line {
+	height:7px;
+	width:60%;
+	margin:5px auto;
+	border-radius:5px;
+	background: #fff;
+	border: none;
+	transition: .25s transform; /* transitions the transform properties */
+}
+
+.line.active.top {
+	background: #000;
+}
+
+.line.active.middle {
+	/* Rotates the line by 45deg */
+    transform: rotate(45deg);	
+}
+
+.line.active.bottom {
+	/* Moves the line up by 11px and rotates it by 45deg */
+	transform: translate(0, -11px) rotate(-45deg);
+}
+
+/* Hide mobile nav in normal view */
+.mobile-nav {
+	display: none;
+}
+
+.mobile-nav li {
+	padding: 10px;
+	background-color: #ececec;
+	border: none;
+	border-top: 1px solid black;
+}
+
+/*Main content and footer*/
+.main-container {
+	height:400px;
+	margin:20px 0;
+}
+
+footer {
+	text-align: center;
+}
+
+.footer-col {
+	width:25%;
+	height:200px;
+	margin:10px 3%;
+	display: inline-block;
+}
+
+.column-container {
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.four-col {
+	width: 20%;
+	height: 200px;
+	margin: 10px 2%;
+	display: inline-block;
+}
+
+@media only screen and (max-width: 768px) {
+	.desktop-nav ul {
+		display: none;
+	}
+
+	.mobile-nav-button {
+		display: block;
+	}
+
+	.column-container {
+		border: none;
+	}
+
+	.four-col {
+		width: 100%;
+		margin-left: 0;
+	}
+
+	.footer-col {
+		width: 90%;
+		margin: 10px auto;		
+	}
+}
