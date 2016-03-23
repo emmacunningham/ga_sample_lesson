@@ -53,6 +53,14 @@ Answer: our first topic tonight!
 
 ![GeneralAssemb.ly](../../img/icons/code_along.png)
 
+---
+
+## Mmm... burgers
+
+Resources for even more fun with hamburger navs:
+*	<a href="http://tympanus.net/Tutorials/AnimatedBorderMenus/index.html">Animated Border Menus</a>
+*	<a href="http://tympanus.net/Development/ResponsiveMultiLevelMenu/index5.html">Responsive Multi-Level Menu</a>
+
 
 ---
 
