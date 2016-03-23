@@ -56,7 +56,7 @@ Answer: our first topic tonight!
 
 ---
 
-##Level One
+##Responsive Design strategies
 
 *	Convert widths to percentages
 *	Size fonts in ems
@@ -65,7 +65,7 @@ Answer: our first topic tonight!
 ---
 
 
-##Level Two
+##Responsive Design strategies
 
 *	Determine what content is extra
 	*	Does that h1 need an h2 under it?
