@@ -66,7 +66,7 @@ Answer: depends on your needs!  If you are satisfied with the features in Bootst
 
 ##Styling maps
 
-*	<a href="http://googlemaps.github.io/js-samples/styledmaps/wizard/index.html">Google Maps styling wizard</a>
+*	<a href="https://snazzymaps.com">Snazzy Maps</a> - Styling wizard
 *	<a href="https://developers.google.com/maps/documentation/javascript/examples/maptype-styled-simple">Example of simply styled map</a>
 *	<a href="https://developers.google.com/maps/documentation/javascript/styling#overview">Map styling options</a>
 
