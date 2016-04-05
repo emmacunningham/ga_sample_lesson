@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Your description goes here">
+    	<meta name="keywords" content="one, two, three">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Embedding sound</title>
+		
+		<!-- external CSS link -->
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/main.css">
+		
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+	</head>
+	<body>
+
+		<!-- embed sound file using sound element -->
+		<audio id="coin-sound" class="sample">
+		  <source src="assets/coin.wav" type="audio/wav">
+		<!-- Fallback text if browser doesn't support audio element -->
+		Your browser does not support the audio element.
+		</audio>
+
+		<!-- embed sound file using sound element -->
+		<audio id="1up-sound" class="sample">
+		  <source src="assets/1up.wav" type="audio/wav">
+		<!-- Fallback text if browser doesn't support audio element -->
+		Your browser does not support the audio element.
+		</audio>
+
+		<!-- embed sound file using sound element -->
+		<audio id="power-sound" class="sample">
+		  <source src="assets/power.wav" type="audio/wav">
+		<!-- Fallback text if browser doesn't support audio element -->
+		Your browser does not support the audio element.
+		</audio>
+
+		<!-- embed sound file using sound element -->
+		<audio id="beat-sound">
+		  <source src="assets/beat.mp3" type="audio/mp3">
+		<!-- Fallback text if browser doesn't support audio element -->
+		Your browser does not support the audio element.
+		</audio>						
+
+		<div id="play-coin" class="play-icon">
+			<img src="img/coin.gif" alt="coin" />
+		</div>
+		<div id="play-1up" class="play-icon">
+			<img src="img/1up.png" alt="coin" />
+		</div>
+		<div id="play-power" class="play-icon">
+			<img src="img/power.png" alt="coin" />
+		</div>	
+		<br />
+
+		<button id="start-loop">Start beat</button>
+		<button id="end-loop">End beat</button>
+
+		<script src="js/main.js"></script>
+	</body>
+</html>
